@@ -17,7 +17,7 @@ namespace project
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.Text = "title";
+            this.Text = "title ready";
         }
     }
 }
