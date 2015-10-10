@@ -12,7 +12,7 @@ namespace project
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Its working good!");
+            MessageBox.Show("Its working very good!");
         }
     }
 }
