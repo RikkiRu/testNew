@@ -21,11 +21,5 @@ namespace project
             this.Text = "title ready";
             this.BackColor = Color.GreenYellow;
         }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            this.Text = "title ready";
-            this.BackColor = Color.GreenYellow;
-        }
     }
 }
