@@ -18,6 +18,8 @@ namespace project
             MessageBox.Show("Its working very good!");
         }
 
+        string newTest = "newtest";
+
         private void button2_Click(object sender, EventArgs e)
         {
             this.Text = "title ready";
