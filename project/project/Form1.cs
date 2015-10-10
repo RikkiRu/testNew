@@ -11,7 +11,7 @@ namespace project
             InitializeComponent();
         }
 
-        string test = "test";
+        string test = "test2";
 
         private void button1_Click(object sender, EventArgs e)
         {
