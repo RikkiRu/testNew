@@ -1,0 +1,9 @@
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2015\Projects\testNew\project\project\bin\Debug\project.exe.config
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2015\Projects\testNew\project\project\bin\Debug\project.exe
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2015\Projects\testNew\project\project\bin\Debug\project.pdb
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2015\Projects\testNew\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2015\Projects\testNew\project\project\obj\Debug\project.Form1.resources
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2015\Projects\testNew\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2015\Projects\testNew\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2015\Projects\testNew\project\project\obj\Debug\project.exe
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2015\Projects\testNew\project\project\obj\Debug\project.pdb
