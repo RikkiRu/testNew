@@ -11,6 +11,8 @@ namespace project
             InitializeComponent();
         }
 
+        string test = "test";
+
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Its working very good!");
