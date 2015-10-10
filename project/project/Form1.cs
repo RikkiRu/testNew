@@ -14,5 +14,10 @@ namespace project
         {
             MessageBox.Show("Its working very good!");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Text = "title";
+        }
     }
 }
