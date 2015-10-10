@@ -18,7 +18,7 @@ namespace project
             MessageBox.Show("Its working very good!");
         }
 
-        string newTest = "newtest";
+        string newTest = "newtestorigin";
 
         private void button2_Click(object sender, EventArgs e)
         {
