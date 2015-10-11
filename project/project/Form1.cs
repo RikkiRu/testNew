@@ -25,5 +25,10 @@ namespace project
             this.Text = "title ready";
             this.BackColor = Color.GreenYellow;
         }
+
+        void upd2()
+        {
+            return;
+        }
     }
 }
