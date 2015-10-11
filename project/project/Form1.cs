@@ -28,6 +28,7 @@ namespace project
 
         void upd2()
         {
+            int a = 0;
             return;
         }
     }
